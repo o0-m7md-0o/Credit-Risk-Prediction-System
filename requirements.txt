@@ -1,6 +1,10 @@
+streamlit
 pandas
 numpy
+scikit-learn
+catboost
 matplotlib
 seaborn
-scikit-learn
-lightgbm
+plotly
+joblib
+xgboost
